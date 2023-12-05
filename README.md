@@ -4,7 +4,7 @@
 - 🌱 I’m Currently delving into the world of MERN stack development to broaden my skill set.
 - 🚀Excited about the intersection of design and technology, I aim to contribute innovative solutions to real-world challenges
 - 💞️ I’m looking to collaborate with people out there like me.
-- 📫 Reach me at athishas406@gmail.com
+- 📫 Reach me at athishas406@gmail.com and www.linkedin.com/in/athish-a-s-4a99bb25b
 
 <!---
 Athi2004/Athi2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
