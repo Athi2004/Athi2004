@@ -1,7 +1,6 @@
 - 👋 Hi there, I'm Athish A S, a third-year student at Bannariamman Institute of Technology, specializing in Artificial Intelligence and Machine Learning.
 - 👀 I’m interested in learning and developing products.
-- 💻As a passionate UI/UX designer and Data Analyst, I'm dedicated to creating seamless and engaging user experiences.
-- 🌱 I’m Currently delving into the world of MERN stack development to broaden my skill set.
+- 💻As a passionate UI/UX designer and Data Analyst, I'm dedicated to creating seamless and engaging user experiences..
 - 🚀Excited about the intersection of design and technology, I aim to contribute innovative solutions to real-world challenges
 - 💞️ I’m looking to collaborate with people out there like me.
 - 📫 Reach me at athishas406@gmail.com and www.linkedin.com/in/athish-a-s-4a99bb25b
